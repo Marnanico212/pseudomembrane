@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Harmon",
+    "age": 44,
+    "address": {
+        "street": "Lisa Heights",
+        "city": "West Joshuaburgh",
+        "state": "Arkansas",
+        "zip": "78842"
+    },
+    "contact": {
+        "phone": "+1-275-869-4962x45036",
+        "servicePhone": "800409721"
+    },
+    "birthday": "1981-28-07",
+    "ip": "72.248.2.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Small guy remember newspaper then phone if anything. Paper program care design article nor door.\nAuthority course dog article. Land church since since natural also team tend.",
+        "bio": "Hand matter various security off building mission exactly. Alone good check. Organization off sing instead threat. Light not every family training."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
