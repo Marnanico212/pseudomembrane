@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Shepard",
+    "age": 96,
+    "address": {
+        "street": "Saunders Villages",
+        "city": "South John",
+        "state": "Tennessee",
+        "zip": "19893"
+    },
+    "contact": {
+        "phone": "(591)878-2452",
+        "servicePhone": "800620091"
+    },
+    "birthday": "1929-20-03",
+    "ip": "116.62.126.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground another hospital control. Term employee grow society boy pass. Alone kind despite. Student difference oil.",
+        "bio": "House score at report record. Design type choice talk cell.\nSince produce scene even energy. Thousand pattern all car consider."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
