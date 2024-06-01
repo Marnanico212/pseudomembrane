@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Rubio",
+    "age": 65,
+    "address": {
+        "street": "Henry Lake",
+        "city": "Lake Alyssahaven",
+        "state": "North Dakota",
+        "zip": "36763"
+    },
+    "contact": {
+        "phone": "+1-283-565-1382x905",
+        "servicePhone": "800980871"
+    },
+    "birthday": "1960-24-10",
+    "ip": "21.162.36.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure sure though three late something fight realize. Speech check there Mr successful down like. Edge force nice report feel truth.",
+        "bio": "Evening home building campaign direction author floor. Matter buy brother decide.\nColor receive call always Mrs season. Officer writer accept culture far class people."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
