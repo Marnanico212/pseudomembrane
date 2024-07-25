@@ -1,0 +1,25 @@
+{
+    "name": "Gloria Gamble",
+    "age": 58,
+    "address": {
+        "street": "Smith Mission",
+        "city": "Lake Kevin",
+        "state": "Illinois",
+        "zip": "38631"
+    },
+    "contact": {
+        "phone": "(521)304-0553x321",
+        "servicePhone": "800289640"
+    },
+    "birthday": "1967-17-04",
+    "ip": "22.249.60.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue recognize receive for write newspaper past. Phone three industry movement.",
+        "bio": "Box bag late notice teach. Yourself at realize. Simply pass those deep cause him bank machine.\nUp behind word study necessary. Shake author factor."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
