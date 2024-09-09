@@ -1,0 +1,25 @@
+{
+    "name": "Sean Andrews",
+    "age": 7,
+    "address": {
+        "street": "Danny Gardens",
+        "city": "South Bonnie",
+        "state": "Florida",
+        "zip": "05489"
+    },
+    "contact": {
+        "phone": "728.533.4719",
+        "servicePhone": "800015963"
+    },
+    "birthday": "2018-12-08",
+    "ip": "68.151.124.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Capital increase population decide want human. Environmental new can only information.\nWait relate forget way response event consider sport. Quality population meet kid generation else.",
+        "bio": "Anyone big itself sport school south modern. Even buy affect without firm.\nAuthority put pattern. By garden store meet owner throw. Language most article ten lead. Their personal born exist."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
