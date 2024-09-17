@@ -1,0 +1,25 @@
+{
+    "name": "Marcia Adkins",
+    "age": 78,
+    "address": {
+        "street": "Rivera Road",
+        "city": "Hoodborough",
+        "state": "Hawaii",
+        "zip": "53940"
+    },
+    "contact": {
+        "phone": "(899)429-4110",
+        "servicePhone": "800418350"
+    },
+    "birthday": "1947-17-05",
+    "ip": "223.45.13.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Drive sometimes method table. Idea yet discover today character trial score. Now resource hour. Happy media culture ability my plan.",
+        "bio": "Stuff letter choose tree guy team. Laugh approach commercial test age fast eight. Ago share fact strong food."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
