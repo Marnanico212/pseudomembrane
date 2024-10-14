@@ -1,0 +1,25 @@
+{
+    "name": "Dana Chase",
+    "age": 99,
+    "address": {
+        "street": "White Park",
+        "city": "Gilbertland",
+        "state": "Mississippi",
+        "zip": "93592"
+    },
+    "contact": {
+        "phone": "435-675-1714x4641",
+        "servicePhone": "800662047"
+    },
+    "birthday": "1926-25-04",
+    "ip": "185.206.223.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Under bag expect knowledge reality. Eight customer minute school cell serious participant someone.\nBoth note catch story future lose. Story up such physical no say detail. Thank back tend.",
+        "bio": "Claim example above yeah. East cell reveal.\nMagazine true economy ball. Money Mr even talk increase. Drug air wait officer relate ten meet.\nHope once officer between. Billion fine set."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
