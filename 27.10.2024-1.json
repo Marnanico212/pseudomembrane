@@ -1,0 +1,25 @@
+{
+    "name": "Adam Cordova",
+    "age": 116,
+    "address": {
+        "street": "Amy Green",
+        "city": "Christopherside",
+        "state": "Michigan",
+        "zip": "13697"
+    },
+    "contact": {
+        "phone": "(632)467-3476x885",
+        "servicePhone": "800580197"
+    },
+    "birthday": "1909-31-10",
+    "ip": "55.27.139.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour item skin idea leader. Ago catch consider budget case.\nLast school ability war responsibility whatever outside. Exist word condition particularly perform. However make laugh level.",
+        "bio": "Congress tough future teacher. But both future stage so student worker drug. New behind despite.\nSummer nor yet team time fine business. Many story tax rate hit institution medical."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
