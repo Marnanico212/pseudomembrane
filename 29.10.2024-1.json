@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Solomon",
+    "age": 55,
+    "address": {
+        "street": "Nicole Path",
+        "city": "Port Danielville",
+        "state": "Wisconsin",
+        "zip": "59099"
+    },
+    "contact": {
+        "phone": "717.675.3577x13761",
+        "servicePhone": "800440434"
+    },
+    "birthday": "1970-18-07",
+    "ip": "47.179.76.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Game grow tax set since. Star hard follow in away year.\nGoal remember action detail.\nAuthor every area method discussion next.",
+        "bio": "Catch recognize onto your environmental. Provide add base role area agree."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
