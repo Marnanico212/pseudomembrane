@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Guerrero",
+    "age": 65,
+    "address": {
+        "street": "Tapia Mountain",
+        "city": "North Raymondtown",
+        "state": "Alabama",
+        "zip": "72407"
+    },
+    "contact": {
+        "phone": "+1-346-655-1990x11262",
+        "servicePhone": "800919312"
+    },
+    "birthday": "1960-03-01",
+    "ip": "141.152.192.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Go onto energy.\nMarket there article travel fear process likely. Time during eye simply however from send.",
+        "bio": "Research usually enjoy cost. Worker film seven focus own.\nOf boy top practice away successful. Pass draw there. Cover huge figure address writer. Agree rest figure quality."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
