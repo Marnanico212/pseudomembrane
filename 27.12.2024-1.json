@@ -1,0 +1,25 @@
+{
+    "name": "Destiny Casey",
+    "age": 43,
+    "address": {
+        "street": "Cindy Square",
+        "city": "North Amychester",
+        "state": "Mississippi",
+        "zip": "83256"
+    },
+    "contact": {
+        "phone": "(387)796-7045",
+        "servicePhone": "800939842"
+    },
+    "birthday": "1982-21-07",
+    "ip": "150.57.133.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Politics actually prevent strong. Try deal increase while community agreement building.",
+        "bio": "Physical music outside sometimes story. Need book big.\nBig step third there us too huge. Friend I money food."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
