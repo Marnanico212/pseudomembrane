@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Sanders",
+    "age": 58,
+    "address": {
+        "street": "Taylor Roads",
+        "city": "Lake Michelle",
+        "state": "Missouri",
+        "zip": "33405"
+    },
+    "contact": {
+        "phone": "(277)473-9399x619",
+        "servicePhone": "800071945"
+    },
+    "birthday": "1967-21-03",
+    "ip": "117.37.149.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference light break. Key approach sometimes hair.\nShould by billion find event participant discover while. Once necessary air treat. Born spend week notice general television.",
+        "bio": "Industry prove ground. Continue visit miss near factor.\nProduct road citizen. Over where page ready above by. Car like police glass today."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
