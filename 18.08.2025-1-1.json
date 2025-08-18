@@ -1,0 +1,25 @@
+{
+    "name": "Jerome Wilson",
+    "age": 9,
+    "address": {
+        "street": "Combs Square",
+        "city": "West Samantha",
+        "state": "New York",
+        "zip": "71055"
+    },
+    "contact": {
+        "phone": "(211)965-8312x1587",
+        "servicePhone": "800824147"
+    },
+    "birthday": "2016-13-06",
+    "ip": "215.115.103.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture front will development collection eat. Believe camera their then you air. Build impact apply how part style never.",
+        "bio": "Current friend feeling near big hotel bar. Finish care medical type technology whether build letter. Lay the minute attention no life whose.\nSide shoulder their open. First hour security agent."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
