@@ -1,0 +1,25 @@
+{
+    "name": "Laura Jenkins",
+    "age": 88,
+    "address": {
+        "street": "Johnson Avenue",
+        "city": "Port Laurie",
+        "state": "South Dakota",
+        "zip": "92842"
+    },
+    "contact": {
+        "phone": "381-914-0607",
+        "servicePhone": "800120885"
+    },
+    "birthday": "1937-17-12",
+    "ip": "221.15.24.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Security animal parent section. Beautiful new wrong particular recently.\nIdea body similar. They knowledge director federal put buy parent. Customer baby care truth law yard discuss.",
+        "bio": "Think plant color early according factor himself half. Process walk lead. Agreement relationship remain when positive organization."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
