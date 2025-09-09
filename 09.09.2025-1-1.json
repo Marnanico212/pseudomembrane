@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Ross",
+    "age": 37,
+    "address": {
+        "street": "James Lane",
+        "city": "Munoztown",
+        "state": "California",
+        "zip": "03543"
+    },
+    "contact": {
+        "phone": "447.258.0679",
+        "servicePhone": "800863148"
+    },
+    "birthday": "1988-14-11",
+    "ip": "191.161.85.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Pm executive sound nice. Important else name yeah gun think. Just fast relate week various former.",
+        "bio": "Bring yes lose dinner.\nMust few modern son fine. Research speak home explain effort light various learn. Into month degree every."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
