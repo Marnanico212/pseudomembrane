@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Ryan",
+    "age": 84,
+    "address": {
+        "street": "Hooper Lodge",
+        "city": "Kimberlyside",
+        "state": "Ohio",
+        "zip": "47262"
+    },
+    "contact": {
+        "phone": "+1-438-630-4807x27164",
+        "servicePhone": "800724128"
+    },
+    "birthday": "1941-07-11",
+    "ip": "104.238.116.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice hand work gun matter beyond. Whose ok from. Hour professional guess run election our.",
+        "bio": "Defense buy available form seem receive night. Woman short read wear compare. Mind piece coach."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
