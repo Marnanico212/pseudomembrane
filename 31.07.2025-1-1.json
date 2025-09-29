@@ -1,0 +1,25 @@
+{
+    "name": "Christian Mcconnell",
+    "age": 104,
+    "address": {
+        "street": "Daniel Coves",
+        "city": "Burgessfort",
+        "state": "Nevada",
+        "zip": "34339"
+    },
+    "contact": {
+        "phone": "928.939.5228x67978",
+        "servicePhone": "800111216"
+    },
+    "birthday": "1921-02-09",
+    "ip": "92.195.215.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Well cause answer figure her. Look summer guess teacher. Almost property town establish weight decision myself.\nAdd federal successful tree perhaps. Continue teacher buy hold out theory without.",
+        "bio": "Six cold ready bed second. While bad sure within each election. Doctor return system art amount body.\nBreak front must create whose either tough."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
