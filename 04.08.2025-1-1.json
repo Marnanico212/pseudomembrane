@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Kelly Young",
+    "age": 29,
+    "address": {
+        "street": "Mack Place",
+        "city": "South Jamesmouth",
+        "state": "Idaho",
+        "zip": "53612"
+    },
+    "contact": {
+        "phone": "351-318-6491x18412",
+        "servicePhone": "800847294"
+    },
+    "birthday": "1996-11-06",
+    "ip": "88.249.144.106",
+    "foo": "bar",
+    "profile": {
+        "about": "In quite represent perhaps. Region security go me very magazine simply.\nAnother agent street treat discussion necessary today. By attack back letter. Few agency fire alone table themselves cut.",
+        "bio": "All shake allow ago rock. Specific writer choose you.\nControl long anything sell. Speak information hold lot collection entire hear. Put really could lawyer."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

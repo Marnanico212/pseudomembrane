@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Bartlett",
+    "age": 89,
+    "address": {
+        "street": "Thomas Street",
+        "city": "Port Saraborough",
+        "state": "Arizona",
+        "zip": "75253"
+    },
+    "contact": {
+        "phone": "+1-975-323-1298",
+        "servicePhone": "800851577"
+    },
+    "birthday": "1936-23-12",
+    "ip": "179.62.136.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder opportunity animal again much. Structure return woman in through social state. Good enter clear.\nReturn that talk here single. Yard industry dream animal arrive will wife.",
+        "bio": "Difficult spring property very billion really. As last many. Answer herself soon house attack radio.\nAttack or eight down. Write tend head personal might hotel might."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

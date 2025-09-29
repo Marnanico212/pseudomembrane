@@ -1,0 +1,25 @@
+{
+    "name": "Amy Campbell",
+    "age": 25,
+    "address": {
+        "street": "Douglas Tunnel",
+        "city": "North David",
+        "state": "Florida",
+        "zip": "36408"
+    },
+    "contact": {
+        "phone": "001-912-568-7159",
+        "servicePhone": "800251897"
+    },
+    "birthday": "2000-10-05",
+    "ip": "6.200.150.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist store drug eight style information. House the such still senior. Improve low policy listen single. Call baby no.",
+        "bio": "Expert bill serve per whether agree student. Marriage administration partner change common. Reflect husband finish operation rich support."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

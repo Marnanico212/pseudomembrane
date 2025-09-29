@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie White",
+    "age": 81,
+    "address": {
+        "street": "Hoffman Orchard",
+        "city": "East Stephaniechester",
+        "state": "Pennsylvania",
+        "zip": "83118"
+    },
+    "contact": {
+        "phone": "+1-478-839-0646",
+        "servicePhone": "800427676"
+    },
+    "birthday": "1944-04-06",
+    "ip": "139.71.68.47",
+    "foo": "bar",
+    "profile": {
+        "about": "He soldier market deal above week. Door look right hundred table available main.",
+        "bio": "Soon student contain nice film. Woman wrong they wind.\nEver one sell drop prove. Season continue bad."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
