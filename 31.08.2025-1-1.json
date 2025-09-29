@@ -1,0 +1,25 @@
+{
+    "name": "Ann Mckenzie",
+    "age": 88,
+    "address": {
+        "street": "Daniel Mountains",
+        "city": "Beltranland",
+        "state": "Utah",
+        "zip": "83756"
+    },
+    "contact": {
+        "phone": "782-489-8581x62953",
+        "servicePhone": "800668779"
+    },
+    "birthday": "1937-03-10",
+    "ip": "128.184.58.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Yeah by represent test. Want him player seat. Spend those politics nothing action.\nGrow class seek or east compare. Far own feel time home program my.\nSkill long large senior career fine education.",
+        "bio": "Take letter organization see. Treat car partner fall eight.\nNation pressure clearly bank. Value we effort seem throughout.\nStyle unit million owner skin air people. Us sense institution."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

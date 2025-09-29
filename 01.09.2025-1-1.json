@@ -1,0 +1,25 @@
+{
+    "name": "James White",
+    "age": 42,
+    "address": {
+        "street": "Mary Fields",
+        "city": "South Andrewborough",
+        "state": "Georgia",
+        "zip": "90869"
+    },
+    "contact": {
+        "phone": "(988)306-5643",
+        "servicePhone": "800983802"
+    },
+    "birthday": "1983-21-06",
+    "ip": "53.121.224.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail able American. Sit west behavior television attorney the. Candidate class paper address chance plant medical.",
+        "bio": "Maintain act accept structure central. You word response partner west with.\nOwn rate score deep this data experience. After speech once bit production."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
