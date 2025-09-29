@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Wilson",
+    "age": 79,
+    "address": {
+        "street": "Samuel Squares",
+        "city": "New Kimberly",
+        "state": "Iowa",
+        "zip": "35151"
+    },
+    "contact": {
+        "phone": "977-690-4496",
+        "servicePhone": "800975041"
+    },
+    "birthday": "1946-15-09",
+    "ip": "104.213.218.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Break vote suffer happen station show. Course weight cup raise. American democratic difficult school continue save task.\nSkin approach yes data. Provide admit better seat. Family rule send manager.",
+        "bio": "Music hour try of would health. Shake others around inside yet better. Resource whole nice smile evening memory billion."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

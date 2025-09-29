@@ -1,0 +1,25 @@
+{
+    "name": "Sheila Becker",
+    "age": 13,
+    "address": {
+        "street": "Meyers Heights",
+        "city": "South James",
+        "state": "New Mexico",
+        "zip": "94199"
+    },
+    "contact": {
+        "phone": "001-350-246-4404",
+        "servicePhone": "800854803"
+    },
+    "birthday": "2012-11-03",
+    "ip": "1.146.7.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Half wear class dark. Cost lot current among.",
+        "bio": "Ball hand skin food authority article. Medical take enjoy ready. Rather expect happy back.\nCandidate money must green. Behind energy black last two success until suddenly.\nReflect claim be position."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}

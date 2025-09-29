@@ -1,0 +1,25 @@
+{
+    "name": "Angela Green",
+    "age": 90,
+    "address": {
+        "street": "Robert Stream",
+        "city": "Lake Deborahburgh",
+        "state": "Idaho",
+        "zip": "90069"
+    },
+    "contact": {
+        "phone": "6759031553",
+        "servicePhone": "800966668"
+    },
+    "birthday": "1935-17-06",
+    "ip": "74.74.243.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Right suffer notice. Throughout prevent off.\nPlayer network author race keep again. Message out eight court need popular recent. Situation serious natural owner party.",
+        "bio": "Less particular matter approach some low tough. Item rock our. Account card say cause admit.\nSurface wait with almost. Teacher plan sport stop other marriage. Body reach prevent high."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
