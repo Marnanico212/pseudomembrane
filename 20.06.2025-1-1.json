@@ -1,0 +1,25 @@
+{
+    "name": "April Vargas",
+    "age": 111,
+    "address": {
+        "street": "Kathryn Street",
+        "city": "Hineschester",
+        "state": "Virginia",
+        "zip": "47540"
+    },
+    "contact": {
+        "phone": "682.718.5825x8349",
+        "servicePhone": "800014594"
+    },
+    "birthday": "1914-13-11",
+    "ip": "36.6.163.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Face likely democratic card various expect decide technology. Seat vote high argue. Seem send road.",
+        "bio": "Will beyond successful sit must policy. Rate challenge near year kitchen.\nI trade hospital court. Then bring election sell concern."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

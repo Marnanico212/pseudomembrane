@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Harris",
+    "age": 88,
+    "address": {
+        "street": "Patrick Vista",
+        "city": "Alvarezland",
+        "state": "Idaho",
+        "zip": "85674"
+    },
+    "contact": {
+        "phone": "001-698-777-5456",
+        "servicePhone": "800308037"
+    },
+    "birthday": "1937-01-06",
+    "ip": "222.195.224.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Place billion treatment assume. Cell take station man me cell onto four. Form red appear job provide experience simply. Measure authority move person help.",
+        "bio": "Sound clearly table politics natural lay its market. According state according wrong explain. Defense so quality become."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
