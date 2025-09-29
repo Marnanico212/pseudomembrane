@@ -1,0 +1,25 @@
+{
+    "name": "Kim Collins",
+    "age": 84,
+    "address": {
+        "street": "Alexander Dam",
+        "city": "Melissaport",
+        "state": "New Hampshire",
+        "zip": "29214"
+    },
+    "contact": {
+        "phone": "001-565-311-5039",
+        "servicePhone": "800663580"
+    },
+    "birthday": "1941-22-06",
+    "ip": "76.151.38.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Happen dark nearly car development white leave. Notice themselves value idea community reduce reduce list.\nChance may weight street begin. Peace near build rate.",
+        "bio": "Position sport fact off dog. Good only discover into always up moment.\nMajority man instead air also green table push. Responsibility total as six order. Work mission now family throw good."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
