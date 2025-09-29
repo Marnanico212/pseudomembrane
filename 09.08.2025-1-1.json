@@ -1,0 +1,25 @@
+{
+    "name": "Larry Johnston",
+    "age": 55,
+    "address": {
+        "street": "Perez Stream",
+        "city": "Rachelport",
+        "state": "Alaska",
+        "zip": "26646"
+    },
+    "contact": {
+        "phone": "001-767-628-3344x81176",
+        "servicePhone": "800212447"
+    },
+    "birthday": "1970-04-08",
+    "ip": "145.159.186.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Choose chance nice threat. North represent feeling serve score. Seem suggest close room discussion team red. Wall until wrong message science city.",
+        "bio": "Notice together including adult level boy. Go style statement there. Direction way card mother east almost entire enjoy."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
